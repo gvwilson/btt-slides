@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include "head.html" %}
+  <body>
+    <h1>{{ node.title }}</h1>
+    <hr>
+{{node.html}}
+  </body>
+</html>
