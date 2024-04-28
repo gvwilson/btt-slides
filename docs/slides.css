@@ -96,3 +96,8 @@ body {
     bottom: 0;
     right: 0;
 }
+
+/* Title page */
+h1.title-page {
+    margin-top: 5em;
+}
